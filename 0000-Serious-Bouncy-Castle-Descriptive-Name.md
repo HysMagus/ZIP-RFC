@@ -10,11 +10,11 @@
 # Summary
 [summary]: #summary
 
-This is a one paragraph summary of what this proposal is doing. This proposal is a very serious summarization on getting a Bouncy Castle for the ZCoin offices with the thought process being to insure that the ZCoin team has a healthy work environment where they can accomplish greater amounts of productivity atop their already frankly ridicoulously high output rate. 
+This is a one paragraph summary of what this proposal is doing. This proposal is a very serious summarization on getting a Bouncy Castle for the ZCoin offices with the thought process being to insure that the ZCoin team has a healthy work environment where they can accomplish greater amounts of productivity atop their already frankly ridiculously high output rate. 
 # Motivation
 [motivation]: #motivation
 
-This section explains why we need to do this proposal. The Zcoin Team needs a bouncy castle because Reuben, Anwar Aram, Tadhg, Peter, Sandra, Poramain and the rest of the Zcoin team are working in a high stress environment where they are slowly going crazy with the amount of innovation they are outputting and amazing community they are sheparding. They need a place to unwind and relax as well as to insure that the development and research team does not burn out before Lelantus is released. 
+This section explains why we need to do this proposal. The Zcoin Team needs a bouncy castle because Reuben, Anwar Aram, Tadhg, Peter, Sandra, Poramin and the rest of the Zcoin team are working in a high stress environment where they are slowly going crazy with the amount of innovation they are outputting and amazing community they are sheparding. They need a place to unwind and relax as well as to insure that the development and research team does not burn out before Lelantus is released. 
 
 # Community-level explanation
 [community-level-explanation]: #community-level-explanation
