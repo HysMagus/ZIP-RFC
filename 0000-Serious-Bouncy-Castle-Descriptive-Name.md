@@ -19,7 +19,7 @@ This section explains why we need to do this proposal. The Zcoin Team needs a bo
 # Community-level explanation
 [community-level-explanation]: #community-level-explanation
 
-This is the section where we explain it as if we were explaining it to a noob. If this was software and not a bouncy castle, there would be sections on the functionality, featuers, need for the community etc.
+This is the section where we explain it as if we were explaining it to a noob. If this was software and not a bouncy castle, there would be sections on the functionality, features, need for the community etc.
 However since this is a bouncy castle it can be expained as such.
 
 The Bouncy Castle is a core part of the Zcoin Project as it provides a place for the founding and core team to bounce around and relieve stress through the ancient science of having fun.  
